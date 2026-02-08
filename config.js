@@ -1,4 +1,4 @@
-export const config = {
+config = {
   // Name & page title
   valentineName: "Kamden",
   pageTitle: "Hey Kamden 🕷️❤️",
